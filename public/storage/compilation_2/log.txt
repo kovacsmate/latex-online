@@ -1,0 +1,10 @@
+pdflatex -interaction nonstopmode -recorder -output-directory latex.out /Users/dave/Downloads/latex-online-master/public/downloads/tmp_2/main.tex
+/usr/local/texlive/2019/texmf-dist/tex/latex/base/fixltx2e.sty: warning: [fixltx2e] fixltx2e is not required with releases after 2015 All fixes are now in the LaTeX kernel. See the latexrelease package for details
+/Users/dave/Downloads/latex-online-master/public/downloads/tmp_2/main.tex:34: warning: [hyperref] Option `bookmarks' has already been used, setting the option has no effect
+/Users/dave/Downloads/latex-online-master/public/downloads/tmp_2/main.tex:60: error: Undefined control sequence
+      at \nd{document}
+            ^
+/Users/dave/Downloads/latex-online-master/public/downloads/tmp_2/main.tex: error: Emergency stop: job aborted, no legal \end found
+      at <*> ...line-master/public/downloads/tmp_2/main.tex
+/Users/dave/Downloads/latex-online-master/public/downloads/tmp_2/main.tex: Fatal error (no output file produced)
+There were errors; /Users/dave/Downloads/latex-online-master/public/storage/compilation_2/output.pdf not updated

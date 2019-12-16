@@ -1,0 +1,2 @@
+pdflatex -interaction nonstopmode -recorder -output-directory latex.out /Users/dave/Downloads/latex-online-master/public/downloads/tmp_1/main.tex
+pdflatex -interaction nonstopmode -recorder -output-directory latex.out /Users/dave/Downloads/latex-online-master/public/downloads/tmp_1/main.tex
